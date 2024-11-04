@@ -1,6 +1,6 @@
-body{
+/* body{
     background-color: red;
-}
+} */
 
 /* @media only screen and (max-width: 1400px) {
     body {
@@ -77,6 +77,11 @@ body{
     height: 400px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+
+.bg-primary{
+    background-color: aqua;
 }
 
 /*Bootstrap 5 provides a wide array of utility classes that help you quickly style your layouts and components. Here’s a summary of some of the most important classes:
@@ -167,3 +172,4 @@ body{
   - `.bg-primary`, `.bg-secondary`, etc.: Background color classes.
 
 These classes form the backbone of Bootstrap 5 and can be mixed and matched to create responsive and attractive layouts with minimal custom CSS.*/
+
