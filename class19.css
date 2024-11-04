@@ -1,0 +1,62 @@
+body{
+    background-color: red;
+}
+
+/* @media only screen and (max-width: 1400px) {
+    body {
+      background-color: rgb(41, 83, 97);
+    }
+  }
+  @media only screen and (max-width:1200px) {
+      body {
+        background-color: green;
+      }
+    }
+    @media only screen and (max-width: 992px) {
+        body {
+          background-color: greenyellow;
+        }
+      }
+      @media only screen and (max-width: 768px) {
+          body {
+            background-color: pink;
+          }
+        }
+        @media only screen and (max-width: 576px) {
+            body {
+              background-color: cyan;
+            }
+          } */
+
+
+
+                /* @media only screen and (min-width: 576px) {
+                    body {
+                      background-color: cyan;
+                    }
+                  }
+
+                  
+          
+              @media only screen and (min-width: 768px) {
+                  body {
+                    background-color: pink;
+                  }
+                }
+                
+                    @media only screen and (min-width: 992px) {
+                        body {
+                          background-color: greenyellow;
+                        }
+                      }
+
+                      @media only screen and (min-width:1200px) {
+                          body {
+                            background-color: green;
+                          }
+                        }
+                        @media only screen and (min-width: 1400px) {
+                          body {
+                            background-color: rgb(41, 83, 97);
+                          }
+                        } */
