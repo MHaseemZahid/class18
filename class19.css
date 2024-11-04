@@ -28,9 +28,8 @@ body{
             }
           } */
 
-
-
                 /* @media only screen and (min-width: 576px) {
+
                     body {
                       background-color: cyan;
                     }
@@ -60,3 +59,22 @@ body{
                             background-color: rgb(41, 83, 97);
                           }
                         } */
+
+.c1{
+    background-color: aliceblue;
+    height: 100vh;
+}                        
+
+
+.main-box {
+    background-color: red;
+    height: 200vh;
+}
+
+.custom-column {
+    background-color: white;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
